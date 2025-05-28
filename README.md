@@ -6,4 +6,4 @@
 
 📫 SvikaOrg inobatika pa imeyiri inoti svika at svika.services.
 
-🌱 Svika i non profit ye hutano hwevana yema ambulance e Kwadhokota.
+🌱 Svika.Org i non profit ye hutano hwevana yema ambulance e Kwadhokota.
