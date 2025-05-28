@@ -1,4 +1,4 @@
-# svikaorg-
+# Svikaorg-
 
 🔭 Iyi i peji ye SvikaServices.
 
