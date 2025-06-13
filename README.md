@@ -2,7 +2,7 @@
 
 🔭 Iyi i peji ye SvikaServices.
 
-🔭 Aya ma -Sport for Causes - mu Zambezi ehutano hwevana.
+🏂 Aya ma -Sport for Causes - mu Zambezi ehutano hwevana.
 
 📫 SvikaOrg inobatika pa Kero inoti svika at svika.services.
 
