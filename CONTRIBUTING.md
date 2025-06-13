@@ -1,3 +1,3 @@
 Ma guidelines
 
-    Ma guidelines ekuseenza pa SvikaOrg.
+    Ma guidelines epa SvikaOrg.
