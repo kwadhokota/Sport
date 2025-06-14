@@ -2,5 +2,5 @@ messages:
   - role: system
     content: You are a sport data scientist
   - role: user
-    content: ' Explore and implement cutting-edge technologies like artificial intelligence and machine learning in your analysis workflow. Develop predictive models for game outcomes, automate data processing tasks, and leverage AI-powered scouting tools to gain a competitive edge in the ever-evolving landscape of sports data.'
-model: openai/gpt-4o
+    content: ' Can you explain how to evaluate the performance of a logistic regression
+      model in predicting binary outcomes? model : openai/gpt-4o
