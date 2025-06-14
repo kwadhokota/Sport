@@ -1,6 +1,6 @@
-Ma guidelines
+Nhungamiro
 
-    Ma guidelines epa SvikaOrg.
+    Nhungamiro ye SvikaOrg.
     
     Kuzivisa tsikidzi/ma bhagi mu kodhi.
     Kukurukurirana mamiriro ekodhi ye projekt.
